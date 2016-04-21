@@ -1,4 +1,4 @@
-This repository is based upon https://github.com/dc42/CoreNG and was intended for the RADDS port of the RepRapFirmware, https://github.com/dcnewman/RepRapFirmware-RADDS.  All work by dcnewman on this repository was suspended on April 21, 2016.
+__This repository is based upon https://github.com/dc42/CoreNG and was intended for the RADDS port of the RepRapFirmware, https://github.com/dcnewman/RepRapFirmware-RADDS.  All work by dcnewman on this repository was suspended on April 21, 2016.__
 
 New hardware abstraction layer for RepRapFirmware based on ASF 3.31
 
