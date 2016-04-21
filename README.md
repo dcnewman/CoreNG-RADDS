@@ -1,4 +1,5 @@
-# CoreNG
+This repository is based upon https://github.com/dc42/CoreNG and was intended for the RADDS port of the RepRapFirmware, https://github.com/dcnewman/RepRapFirmware-RADDS.  All work by dcnewman on this repository was suspended on April 21, 2016.
+
 New hardware abstraction layer for RepRapFirmware based on ASF 3.31
 
 This is a new hardware abstraction layer for RepRapFirmware. It replaces the CoreDuet project in releases 1.11 and later of my fork of RepRapFirmware. It is based on Atmel Software Framework version 3.31 and also includes modules from the Arduino Due core.
